@@ -1,0 +1,59 @@
+body {
+  background-color: #e6caf7;
+  font-family: Arial;
+}
+
+body div {
+  width: 80%;
+  text-align: center;
+}
+
+body h1 {
+  color: #290233;
+}
+
+body h2 {
+  color: #9412b4;
+}
+
+body .example {
+  background-color: #6207ac;
+}
+
+body img {
+  width: 100vh;
+}
+
+body ul {
+  color: #9b027a;
+}
+
+body ol {
+  color: #530577;
+}
+
+body a {
+  color: grey;
+}
+
+body a:hover {
+  color: pink;
+}
+
+body #example1 p {
+  font-size: 30px;
+  background-color: #fafafa;
+  text-align: center;
+}
+
+body #example1 strong {
+  font-size: 50px;
+  color: magenta;
+}
+
+body .newParagraf {
+  font-size: 17px;
+  text-align: center;
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */

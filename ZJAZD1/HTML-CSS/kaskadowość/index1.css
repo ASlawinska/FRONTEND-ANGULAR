@@ -1,0 +1,37 @@
+p:nth-child(3) {
+    background-color: yellow;
+    font-size: 20px;
+}
+
+.druga_klasa {
+    background-color: brown;
+}
+
+p:nth-child(2) {
+    background-color: lightgreen;
+}
+
+p {
+    background-color: lightgrey/*!important*/
+}
+
+.nazwa_klasy {
+    background-color: blue;
+    font-size: 20px;
+}
+
+.nazwa_klasy .wewnetrzna_klasa {
+    background-color: chocolate;
+}
+
+.wewnetrzna_klasa {
+    background-color: magenta !important;
+}
+
+.ostatnia_klasa {
+    background-color: yellow;
+}
+
+.lastone .siedem {
+    background-color: maroon;
+}

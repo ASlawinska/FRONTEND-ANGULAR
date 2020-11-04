@@ -1,0 +1,31 @@
+body
+    background-color: #e5f795
+.parent
+    height: 400px
+    width: 400px
+    background-color: #0a95cc
+    .child
+        height: 200px
+        width: 200px
+        background-color: #f38181
+    //    transition: transform 1s ease-in-out
+.parent:hover
+    background-color: #fff
+.parent:hover .child // po wjechaniu na rodzica. zmiana koloru dziecka 
+    animation: animacjaChild 1s ease-in forwards 10
+    //background-color: #240202
+    //transform: translate(75%)
+@keyframes animacjaChild
+    0%
+        transform: translateX(0)
+        background-color: yellow
+    33%
+        transform: translateY(100%)
+    50%
+        transform: translateX(100%)
+        transform: translateY(100%)
+    75%
+        transform: translateX(100%)
+    100%
+        transform: translateX(0%)
+        background-color: #55b11f
