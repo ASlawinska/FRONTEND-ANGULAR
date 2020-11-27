@@ -1,0 +1,167 @@
+// general rules///
+*,*::before, *::after
+    box-sizing: border-box
+body
+    height: 100%
+    font-family: 'Lato', sans-serif;
+    font-size: 16px
+    p
+        font-weight: 400
+    h1 h3
+        font-weight: 700
+    a
+        color: #3d3c3c
+    a:hover
+        color: #7484a0
+img
+    max-width: 100%
+
+//cointaner
+.cointainer
+    max-width: 1000px
+    border: 2px solid #222246
+    margin: auto
+    box-shadow: 0 0 30px #3d3c3c
+    border-radius: 5px
+
+
+
+///Header////
+header
+    display: flex 
+    align-items: center
+    justify-content: space-between
+    padding: 15px
+/* Brand */
+.brand a, .brand img
+    display: block
+//NAVIGATION
+nav 
+    li 
+        display: inline-block
+        a 
+            font-size: 18px
+            background-color: #3d3c3c
+            color: #0606a1
+            text-decoration: none
+            padding: 10px 15px
+            border-radius: 2px
+        a:hover
+            background: #222246
+            color: #fafafa
+//SLIDER
+.slider
+    img
+        display: block
+//ARTICLE
+main
+    display: flex
+//    justify-content: space-between // powoduje że pomiędzy elementami pojawia się przerwa dopełniająca 
+
+article
+    width: 70vw
+    display: inline-block
+    h1
+        font-size: 25px
+        font-weight: bold
+        padding: 10px
+    p
+        padding: 10px 30px
+
+//asidepd
+aside
+    
+    width: 30vw
+    display: inline-block
+    padding: 20px
+    background-color: #a5a1a1
+    border-left: 2px solid #424141
+    .widgets
+        margin-bottom: 40px
+        img
+            float: left
+            padding: 20px
+        p
+            font-size: 18px
+
+    h3
+        font-size: 22px
+    .recent_Links
+        padding-left: 10px
+        ul
+            list-style-type: square
+            li
+                padding: 10px 10px
+                a
+                    text-decoration: none
+
+//contact
+.contact
+    width: 100vw
+//footer
+footer
+    //width: 100vw
+    text-align: center
+    justify-content: center
+    background-color: #353535
+    color: white
+    border-top: 3px solid #000
+    margin: auto
+    padding: 20px 0
+    //position: absolute
+    //bottom: 0px
+    p
+    margin: 0
+    padding: 10px
+.copy::before
+    content: \00A9
+    padding-right: 3px
+
+// Style for multimedia
+
+.youTube
+    max-width: 100%
+    height: auto
+    background-color: #131111
+    iframe
+        display: block
+        margin: auto
+//* Stylef for contact.html */
+.contact_form
+    margin: 0 auto
+    text-align: center
+
+
+.contact_form 
+    label
+        display: block
+
+
+.input-field
+    display: block
+    height: 20px
+    width: 180px
+    border: 3px solid blue
+    border-radius: 3px
+    margin: auto
+input
+    #gender
+        display: inline-block
+
+
+.contact_form 
+    submit
+        background: green
+        border-radius: 3px
+        width: 200px
+        height: 50px
+        margin: 20px
+        border: 5px dashed black
+        color: white
+        font-weight: bold
+
+
+// input type='number'
+//     background-color: red
+
+

@@ -60,38 +60,54 @@
     
 // }
 // console.log(animalLegsSummary(2,3,5));
-zad1 seria2
-obliczanie silni dla liczb całkowitych 
-let n = parseFloat(prompt('Podaj liczbę całkowitą')); // wsprowadzenie liczby w postaci stringa i konwersja na liczbę zmiennoprzecinkową.
-let s = 1;
+// zad1 seria2
+// obliczanie silni dla liczb całkowitych 
+// let n = parseFloat(prompt('Podaj liczbę całkowitą')); // wsprowadzenie liczby w postaci stringa i konwersja na liczbę zmiennoprzecinkową.
+function result(n) {
+    let s = 1;
 if (Number.isInteger(n) === true) { // sprawdzenie czy wartość jest całkowita
-    for (let i = 1; i <= n; ) {
-        s *= i++;
+    for (let i = 1; i <= n; i++) {
+        s *= i;
     }
     alert(s)
 } else {
     alert('wartość nieprawidłowa');
 }
-
-// zad 2 seria 2 
-let pH = parseFloat(prompt('Podaj wartość pH'));
-switch (true) {
-    case (0 <= pH) && (pH < 7):
-        alert('kwaśna')
-        break;
-    case pH === 7:
-        alert('obojętna')
-        break;
-    case (7< pH) && (pH <= 14):
-        alert('zasadowa')
-        break;
-    default: alert('wartość poza przedziałem')
-        break;
 }
+// //rozwiązanie rukurencyjne
+// function silnia(m) {
+//     if (m===0) {
+//         return 1
+//     } else {
+//         return m*silnia(m-1)
+//     }
+// }
+// silnia(6)
 
-zad 3 seria 2
 
-equalSlices(total slices, no. recipients, slices each)
+// // zad 2 seria 2 
+// let pH = parseFloat(prompt('Podaj wartość pH'));
+// function pHValue(pH) {
+//     switch (true) {
+//         case (0 <= pH) && (pH < 7):
+//             alert('kwaśna')
+//             break;
+//         case pH === 7:
+//             alert('obojętna')
+//             break;
+//         case (7< pH) && (pH <= 14):
+//             alert('zasadowa')
+//             break;
+//         default: alert('wartość poza przedziałem')
+//             break;
+//     }
+// }
+
+
+
+// zad 3 seria 2
+
+// equalSlices(total slices, no. recipients, slices each)
 function equalSlices(totalSlices, nbRrecipients, slicesEach) {
     if (totalSlices - nbRrecipients*slicesEach === 0) {
         alert(true)
