@@ -14,12 +14,12 @@ module.exports = {
     module: {
         rules: [{
         test: /\.css$/,
+
         use: [
         {loader: "style-loader/url"},
         {loader: "file-loader",
         options: {name: "[name].[ext]"}}
         ]
-        }]
         },
         {
             test: /\.js$/,
@@ -27,8 +27,9 @@ module.exports = {
             use: {
                 loader: 'babel-loader',
                 options: {
-                    persets: ['@babel/preset-env']
+                    presets: ['@babel/preset-env']
                 }
             }
         }
-}
+        ]
+}}

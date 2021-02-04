@@ -138,7 +138,7 @@ eval("var update = __webpack_require__(/*! ../../node_modules/style-loader/lib/a
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sum_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sum.js */ \"./src/sum.js\");\n/* harmony import */ var _sum_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_sum_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/index.css */ \"./src/css/index.css\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_index_css__WEBPACK_IMPORTED_MODULE_1__);\n\r\n\r\nconsole.log('Hello world');\r\nconsole.log(Object(_sum_js__WEBPACK_IMPORTED_MODULE_0__[\"sum\"])(2,3));\r\nlet heading = document.querySelector('#demo'),\r\nsumValue = Object(_sum_js__WEBPACK_IMPORTED_MODULE_0__[\"sum\"])(5,50);\r\nheading.innerHTML = `50 + 5 = ${sumValue}`;\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sum_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sum.js */ \"./src/sum.js\");\n/* harmony import */ var _sum_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_sum_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/index.css */ \"./src/css/index.css\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_index_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\nconsole.log('Hello world');\nconsole.log(Object(_sum_js__WEBPACK_IMPORTED_MODULE_0__[\"sum\"])(2, 3));\nvar heading = document.querySelector('#demo'),\n    sumValue = Object(_sum_js__WEBPACK_IMPORTED_MODULE_0__[\"sum\"])(5, 50);\nheading.innerHTML = \"50 + 5 = \".concat(sumValue);\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
@@ -149,7 +149,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sum
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("function sum(a,b){\r\n    return a+b;\r\n}\r\nmodule.exports = {\r\n    sum\r\n}\n\n//# sourceURL=webpack:///./src/sum.js?");
+eval("function sum(a, b) {\n  return a + b;\n}\n\nmodule.exports = {\n  sum: sum\n};\n\n//# sourceURL=webpack:///./src/sum.js?");
 
 /***/ })
 
