@@ -1,0 +1,1601 @@
+29dc.2ed0: Log file opened: 6.1.16r140961 g_hStartupLog=00000000000000a0 g_uNtVerCombined=0xa04a6100
+29dc.2ed0: \SystemRoot\System32\ntdll.dll:
+29dc.2ed0:     CreationTime:    2020-12-10T17:20:36.398967300Z
+29dc.2ed0:     LastWriteTime:   2020-12-10T17:20:36.441434700Z
+29dc.2ed0:     ChangeTime:      2021-01-13T14:22:54.996152800Z
+29dc.2ed0:     FileAttributes:  0x20
+29dc.2ed0:     Size:            0x1ee738
+29dc.2ed0:     NT Headers:      0xe8
+29dc.2ed0:     Timestamp:       0x27bfa5f0
+29dc.2ed0:     Machine:         0x8664 - amd64
+29dc.2ed0:     Timestamp:       0x27bfa5f0
+29dc.2ed0:     Image Version:   10.0
+29dc.2ed0:     SizeOfImage:     0x1f6000 (2056192)
+29dc.2ed0:     Resource Dir:    0x185000 LB 0x6fdc8
+29dc.2ed0:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+29dc.2ed0:     [Raw version resource data: 0x1850f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+29dc.2ed0:     ProductName:     Microsoft® Windows® Operating System
+29dc.2ed0:     ProductVersion:  10.0.19041.662
+29dc.2ed0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+29dc.2ed0:     FileDescription: NT Layer DLL
+29dc.2ed0: \SystemRoot\System32\kernel32.dll:
+29dc.2ed0:     CreationTime:    2020-12-10T17:20:19.578183200Z
+29dc.2ed0:     LastWriteTime:   2020-12-10T17:20:19.599168900Z
+29dc.2ed0:     ChangeTime:      2021-01-13T14:22:53.066010100Z
+29dc.2ed0:     FileAttributes:  0x20
+29dc.2ed0:     Size:            0xbac30
+29dc.2ed0:     NT Headers:      0xe8
+29dc.2ed0:     Timestamp:       0x4b3a140f
+29dc.2ed0:     Machine:         0x8664 - amd64
+29dc.2ed0:     Timestamp:       0x4b3a140f
+29dc.2ed0:     Image Version:   10.0
+29dc.2ed0:     SizeOfImage:     0xbd000 (774144)
+29dc.2ed0:     Resource Dir:    0xbb000 LB 0x520
+29dc.2ed0:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+29dc.2ed0:     [Raw version resource data: 0xbb0b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+29dc.2ed0:     ProductName:     Microsoft® Windows® Operating System
+29dc.2ed0:     ProductVersion:  10.0.19041.662
+29dc.2ed0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+29dc.2ed0:     FileDescription: Windows NT BASE API Client DLL
+29dc.2ed0: \SystemRoot\System32\KernelBase.dll:
+29dc.2ed0:     CreationTime:    2020-12-10T17:20:37.406783200Z
+29dc.2ed0:     LastWriteTime:   2020-12-10T17:20:37.479511800Z
+29dc.2ed0:     ChangeTime:      2021-01-13T14:22:55.007150600Z
+29dc.2ed0:     FileAttributes:  0x20
+29dc.2ed0:     Size:            0x2c9798
+29dc.2ed0:     NT Headers:      0xf0
+29dc.2ed0:     Timestamp:       0xec58f015
+29dc.2ed0:     Machine:         0x8664 - amd64
+29dc.2ed0:     Timestamp:       0xec58f015
+29dc.2ed0:     Image Version:   10.0
+29dc.2ed0:     SizeOfImage:     0x2c9000 (2920448)
+29dc.2ed0:     Resource Dir:    0x2a0000 LB 0x548
+29dc.2ed0:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+29dc.2ed0:     [Raw version resource data: 0x2a00b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+29dc.2ed0:     ProductName:     Microsoft® Windows® Operating System
+29dc.2ed0:     ProductVersion:  10.0.19041.662
+29dc.2ed0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+29dc.2ed0:     FileDescription: Windows NT BASE API Client DLL
+29dc.2ed0: \SystemRoot\System32\apisetschema.dll:
+29dc.2ed0:     CreationTime:    2019-12-07T09:08:13.518339400Z
+29dc.2ed0:     LastWriteTime:   2019-12-07T09:08:13.518339400Z
+29dc.2ed0:     ChangeTime:      2021-01-13T14:22:52.926225200Z
+29dc.2ed0:     FileAttributes:  0x20
+29dc.2ed0:     Size:            0x1f538
+29dc.2ed0:     NT Headers:      0xd0
+29dc.2ed0:     Timestamp:       0x31288ce0
+29dc.2ed0:     Machine:         0x8664 - amd64
+29dc.2ed0:     Timestamp:       0x31288ce0
+29dc.2ed0:     Image Version:   10.0
+29dc.2ed0:     SizeOfImage:     0x20000 (131072)
+29dc.2ed0:     Resource Dir:    0x1f000 LB 0x408
+29dc.2ed0:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+29dc.2ed0:     [Raw version resource data: 0x1f060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+29dc.2ed0:     ProductName:     Microsoft® Windows® Operating System
+29dc.2ed0:     ProductVersion:  10.0.19041.1
+29dc.2ed0:     FileVersion:     10.0.19041.1 (WinBuild.160101.0800)
+29dc.2ed0:     FileDescription: ApiSet Schema DLL
+29dc.2ed0: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+29dc.2ed0: supR3HardenedWinFindAdversaries: 0x0
+29dc.2ed0: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+29dc.2ed0: Calling main()
+29dc.2ed0: SUPR3HardenedMain: pszProgName=VirtualBoxVM fFlags=0x2
+29dc.2ed0: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+29dc.2ed0: SUPR3HardenedMain: Respawn #1
+29dc.2ed0: System32:  \Device\HarddiskVolume2\Windows\System32
+29dc.2ed0: WinSxS:    \Device\HarddiskVolume2\Windows\WinSxS
+29dc.2ed0: KnownDllPath: C:\WINDOWS\System32
+29dc.2ed0: supR3HardenedWinInit: Performing a limited self purification...
+29dc.2ed0: supHardNtVpScanVirtualMemory: enmKind=SELF_PURIFICATION
+29dc.2ed0:  *0000000000000000-000000000036ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000370000-000000000037ffff 0x0004/0x0004 0x0040000
+29dc.2ed0:   0000000000380000-000000000038ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000390000-00000000003acfff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00000000003ad000-00000000003affff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000003b0000-00000000003b3fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00000000003b4000-00000000003bffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000003c0000-00000000003c1fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00000000003c2000-00000000003cffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000003d0000-00000000003d0fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00000000003d1000-00000000003e9fff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00000000003ea000-00000000003fffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000400000-000000000057bfff 0x0000/0x0004 0x0020000
+29dc.2ed0:   000000000057c000-000000000057efff 0x0004/0x0004 0x0020000
+29dc.2ed0:   000000000057f000-00000000005fffff 0x0000/0x0004 0x0020000
+29dc.2ed0:  *0000000000600000-00000000006b8fff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00000000006b9000-00000000006bbfff 0x0104/0x0004 0x0020000
+29dc.2ed0:   00000000006bc000-00000000006fffff 0x0004/0x0004 0x0020000
+29dc.2ed0:  *0000000000700000-00000000007c8fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00000000007c9000-00000000007cffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000007d0000-00000000007d1fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00000000007d2000-00000000007e9fff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00000000007ea000-00000000007effff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000007f0000-000000000080cfff 0x0004/0x0004 0x0020000
+29dc.2ed0:   000000000080d000-00000000008effff 0x0000/0x0004 0x0020000
+29dc.2ed0:  *00000000008f0000-0000000000903fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   0000000000904000-00000000009effff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00000000009f0000-0000000000b3ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000b40000-0000000000b4efff 0x0004/0x0004 0x0020000
+29dc.2ed0:   0000000000b4f000-0000000000b4ffff 0x0000/0x0004 0x0020000
+29dc.2ed0:  *0000000000b50000-0000000000d46fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   0000000000d47000-0000000000d47fff 0x0000/0x0004 0x0020000
+29dc.2ed0:   0000000000d48000-000000007ffdffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+29dc.2ed0:   000000007ffe1000-000000007ffe7fff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *000000007ffe8000-000000007ffe8fff 0x0002/0x0002 0x0020000
+29dc.2ed0:   000000007ffe9000-00007ff494aaffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff494ab0000-00007ff494ab4fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00007ff494ab5000-00007ff494baffff 0x0000/0x0002 0x0040000
+29dc.2ed0:  *00007ff494bb0000-00007ff594bcffff 0x0000/0x0004 0x0020000
+29dc.2ed0:  *00007ff594bd0000-00007ff596bcffff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00007ff596bd0000-00007ff596bd0fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00007ff596bd1000-00007ff596bdffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff596be0000-00007ff596be0fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00007ff596be1000-00007ff596beffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff596bf0000-00007ff596c12fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00007ff596c13000-00007ff79d09ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff79d0a0000-00007ff79d0a0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d0a1000-00007ff79d117fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d118000-00007ff79d118fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d119000-00007ff79d161fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d162000-00007ff79d164fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d165000-00007ff79d167fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d168000-00007ff79d16afff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16b000-00007ff79d16bfff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16c000-00007ff79d16dfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16e000-00007ff79d16efff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16f000-00007ff79d1b7fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d1b8000-00007ffc57c7ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ffc57c80000-00007ffc57c80fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+29dc.2ed0:   00007ffc57c81000-00007ffc57ccefff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+29dc.2ed0:   00007ffc57ccf000-00007ffc57cf0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+29dc.2ed0:   00007ffc57cf1000-00007ffc57cf3fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+29dc.2ed0:   00007ffc57cf4000-00007ffc57d0ffff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+29dc.2ed0:   00007ffc57d10000-00007ffc5b28ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ffc5b290000-00007ffc5b290fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b291000-00007ffc5b3a2fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b3a3000-00007ffc5b51afff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b51b000-00007ffc5b51efff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b51f000-00007ffc5b51ffff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b520000-00007ffc5b558fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+29dc.2ed0:   00007ffc5b559000-00007ffc5c2dffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ffc5c2e0000-00007ffc5c2e0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c2e1000-00007ffc5c35efff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c35f000-00007ffc5c391fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c392000-00007ffc5c392fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c393000-00007ffc5c393fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c394000-00007ffc5c39cfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+29dc.2ed0:   00007ffc5c39d000-00007ffc5da6ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ffc5da70000-00007ffc5da70fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5da71000-00007ffc5db8bfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5db8c000-00007ffc5dbd4fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbd5000-00007ffc5dbd5fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbd6000-00007ffc5dbd7fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbd8000-00007ffc5dbe0fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbe1000-00007ffc5dc65fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dc66000-00007ffffffeffff 0x0001/0x0000 0x0000000
+29dc.2ed0: kernel32.dll: timestamp 0x4b3a140f (rc=VINF_SUCCESS)
+29dc.2ed0: kernelbase.dll: timestamp 0xec58f015 (rc=VINF_SUCCESS)
+29dc.2ed0: apphelp.dll: timestamp 0xa0b5fd5a (rc=VINF_SUCCESS)
+29dc.2ed0: VirtualBoxVM.exe: timestamp 0x5f89bd71 (rc=VINF_SUCCESS)
+29dc.2ed0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe: Signature #1/2: info status: 24202
+29dc.2ed0: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+29dc.2ed0: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+29dc.2ed0: apphelp.dll: Differences in section #2 (.rdata) between file and memory:
+29dc.2ed0:   00007ffc57cd0e78 / 0x0050e78: c0 != 60
+29dc.2ed0:   00007ffc57cd0e79 / 0x0050e79: c3 != 07
+29dc.2ed0:   00007ffc57cd0e7b / 0x0050e7b: 5b != 5c
+29dc.2ed0:   00007ffc57cd0e80 / 0x0050e80: c0 != 50
+29dc.2ed0:   00007ffc57cd0e81 / 0x0050e81: 68 != 55
+29dc.2ed0:   00007ffc57cd0e82 / 0x0050e82: 2d != 2f
+29dc.2ed0:   00007ffc57cd0e83 / 0x0050e83: 5b != 5c
+29dc.2ed0:   00007ffc57cd0e88 / 0x0050e88: 00 != 80
+29dc.2ed0:   00007ffc57cd0e89 / 0x0050e89: 30 != 48
+29dc.2ed0:   00007ffc57cd0e8a / 0x0050e8a: 2d != 30
+29dc.2ed0:   00007ffc57cd0e8b / 0x0050e8b: 5b != 5c
+29dc.2ed0:   00007ffc57cd0e90 / 0x0050e90: d0 != f0
+29dc.2ed0:   00007ffc57cd0e91 / 0x0050e91: b6 != c7
+29dc.2ed0:   00007ffc57cd0e92 / 0x0050e92: 2b != 2f
+29dc.2ed0:   00007ffc57cd0e93 / 0x0050e93: 5b != 5c
+29dc.2ed0:   00007ffc57cd0e98 / 0x0050e98: 40 != 90
+29dc.2ed0:   00007ffc57cd0e99 / 0x0050e99: f8 != 48
+29dc.2ed0:   00007ffc57cd0e9a / 0x0050e9a: 2e != 30
+29dc.2ed0:   00007ffc57cd0e9b / 0x0050e9b: 5b != 5c
+29dc.2ed0:   00007ffc57cd0ea0 / 0x0050ea0: b0 != 60
+29dc.2ed0:   00007ffc57cd0ea1 / 0x0050ea1: 64 != cb
+29dc.2ed0:   00007ffc57cd0ea2 / 0x0050ea2: 30 != 2f
+29dc.2ed0:   00007ffc57cd0ea3 / 0x0050ea3: 5b != 5c
+29dc.2ed0:   00007ffc57cd0ea8 / 0x0050ea8: 50 != d0
+29dc.2ed0:   00007ffc57cd0ea9 / 0x0050ea9: 36 != aa
+29dc.2ed0:   00007ffc57cd0eab / 0x0050eab: 5b != 5c
+29dc.2ed0:   00007ffc57cd0eb8 / 0x0050eb8: a0 != e0
+29dc.2ed0:   00007ffc57cd0eb9 / 0x0050eb9: 49 != ad
+29dc.2ed0:   00007ffc57cd0eba / 0x0050eba: 2b != 2f
+29dc.2ed0:   00007ffc57cd0ebb / 0x0050ebb: 5b != 5c
+29dc.2ed0:   Restored 0x2000 bytes of original file content at 00007ffc57ccf000
+29dc.2ed0: supR3HardenedWinInit: SUPHARDNTVPKIND_SELF_PURIFICATION_LIMITED -> VINF_SUCCESS, cFixes=1
+29dc.2ed0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe: Signature #1/2: info status: 24202
+29dc.2ed0: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+29dc.2ed0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe)
+29dc.2ed0: supR3HardNtEnableThreadCreationEx:
+29dc.2ed0: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ffc5dae4970 pvNtTerminateThread=00007ffc5db0ca00
+29dc.2ed0: supR3HardenedWinDoReSpawn(1): New child 2914.20e0 [kernel32].
+29dc.2ed0: supR3HardNtChildGatherData: PebBaseAddress=00000000004cc000 cbPeb=0x388
+29dc.2ed0: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ffc5da70000 uNtDllChildAddr=00007ffc5da70000
+29dc.2ed0: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ffc5dae4970
+29dc.2ed0: supR3HardenedWinSetupChildInit: Initial context:
+  rax=0000000000000000 rbx=0000000000000000 rcx=00007ff79d0a7900 rdx=00000000004cc000
+  rsi=0000000000000000 rdi=0000000000000000 r8 =0000000000000000 r9 =0000000000000000
+  r10=0000000000000000 r11=0000000000000000 r12=0000000000000000 r13=0000000000000000
+  r14=0000000000000000 r15=0000000000000000  P1=0000000000000000  P2=0000000000000000
+  rip=00007ffc5dabd0b0 rsp=000000000038ff38 rbp=0000000000000000    ctxflags=0010001b
+  cs=0033 ss=002b ds=0000 es=0000 fs=0000 gs=0000    eflags=00000200   mxcrx=00001f80
+   P3=0000000000000000  P4=0000000000000000  P5=0000000000000000  P6=0000000000000000
+  dr0=0000000000000000 dr1=0000000000000000 dr2=0000000000000000 dr3=0000000000000000
+  dr6=0000000000000000 dr7=0000000000000000 vcr=0000000000000000 dcr=0000000000000000
+  lbt=0000000000000000 lbf=0000000000000000 lxt=0000000000000000 lxf=0000000000000000
+29dc.2ed0: supR3HardenedWinSetupChildInit: Start child.
+29dc.2ed0: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 1 ms.
+29dc.2ed0: supR3HardNtChildPurify: Startup delay kludge #1/0: 260 ms, 16 sleeps
+29dc.2ed0: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+29dc.2ed0:  *0000000000000000-000000000024ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000250000-000000000026ffff 0x0004/0x0004 0x0020000
+29dc.2ed0:  *0000000000270000-000000000028cfff 0x0002/0x0002 0x0040000
+29dc.2ed0:   000000000028d000-000000000028ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000290000-000000000038afff 0x0000/0x0004 0x0020000
+29dc.2ed0:   000000000038b000-000000000038dfff 0x0104/0x0004 0x0020000
+29dc.2ed0:   000000000038e000-000000000038ffff 0x0004/0x0004 0x0020000
+29dc.2ed0:  *0000000000390000-0000000000393fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   0000000000394000-000000000039ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00000000003a0000-00000000003a1fff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00000000003a2000-00000000003fffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *0000000000400000-00000000004cbfff 0x0000/0x0004 0x0020000
+29dc.2ed0:   00000000004cc000-00000000004cefff 0x0004/0x0004 0x0020000
+29dc.2ed0:   00000000004cf000-00000000005fffff 0x0000/0x0004 0x0020000
+29dc.2ed0:   0000000000600000-000000007ffdffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+29dc.2ed0:   000000007ffe1000-000000007ffe7fff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *000000007ffe8000-000000007ffe8fff 0x0002/0x0002 0x0020000
+29dc.2ed0:   000000007ffe9000-00007ff59952ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff599530000-00007ff599530fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00007ff599531000-00007ff59953ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff599540000-00007ff599562fff 0x0002/0x0002 0x0040000
+29dc.2ed0:   00007ff599563000-00007ff79d09ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ff79d0a0000-00007ff79d0a0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d0a1000-00007ff79d117fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d118000-00007ff79d118fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d119000-00007ff79d161fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d162000-00007ff79d162fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d163000-00007ff79d163fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d164000-00007ff79d168fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d169000-00007ff79d169fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16a000-00007ff79d16afff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16b000-00007ff79d16efff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d16f000-00007ff79d1b7fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+29dc.2ed0:   00007ff79d1b8000-00007ffc5da6ffff 0x0001/0x0000 0x0000000
+29dc.2ed0:  *00007ffc5da70000-00007ffc5da70fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5da71000-00007ffc5db8bfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5db8c000-00007ffc5dbd4fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbd5000-00007ffc5dbe0fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbe1000-00007ffc5dbeffff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbf0000-00007ffc5dbf0fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbf1000-00007ffc5dbf3fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dbf4000-00007ffc5dc65fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+29dc.2ed0:   00007ffc5dc66000-00007ffffffeffff 0x0001/0x0000 0x0000000
+29dc.2ed0: supR3HardNtChildPurify: Done after 264 ms and 0 fixes (loop #0).
+2914.20e0: Log file opened: 6.1.16r140961 g_hStartupLog=0000000000000004 g_uNtVerCombined=0xa04a6100
+2914.20e0: supR3HardenedVmProcessInit: uNtDllAddr=00007ffc5da70000 g_uNtVerCombined=0xa04a6100 (stack ~000000000038f9c8)
+29dc.2ed0: supR3HardNtEnableThreadCreationEx:
+2914.20e0: ntdll.dll: timestamp 0x27bfa5f0 (rc=VINF_SUCCESS)
+2914.20e0: New simple heap: #1 0000000000700000 LB 0x400000 (for 2056192 allocation)
+2914.20e0: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2914.20e0: System32:  \Device\HarddiskVolume2\Windows\System32
+2914.20e0: WinSxS:    \Device\HarddiskVolume2\Windows\WinSxS
+2914.20e0: KnownDllPath: C:\WINDOWS\System32
+2914.20e0: supR3HardenedVmProcessInit: Opening vboxdrv stub...
+2914.20e0: supR3HardenedVmProcessInit: Restoring LdrInitializeThunk...
+2914.20e0: supR3HardenedVmProcessInit: Returning to LdrInitializeThunk...
+2914.20e0: Registered Dll notification callback with NTDLL.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\kernel32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\kernel32.dll
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\KERNEL32.DLL (Input=KERNEL32.DLL, rcNtResolve=0xc0150008) *pfFlags=0xffffffff pwszSearchPath=0000000000004001:<flags> [calling]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b290000 LB 0x002c9000 C:\WINDOWS\System32\KERNELBASE.dll [fFlags=0x0]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\KernelBase.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\KernelBase.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5c2e0000 LB 0x000bd000 C:\WINDOWS\System32\KERNEL32.DLL [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5c2e0000 'C:\WINDOWS\System32\KERNEL32.DLL'
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ff79d0a0000 LB 0x00118000 C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe [fFlags=0x0]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe: Signature #1/2: info status: 24202
+2914.20e0: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+2914.20e0: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ffc5dae4970 pvNtTerminateThread=00007ffc5db0ca00
+29dc.2ed0: supR3HardNtChildWaitFor: Found expected request 1 (CloseEvents) after 126 ms.
+2914.20e0: \SystemRoot\System32\ntdll.dll:
+2914.20e0:     CreationTime:    2020-12-10T17:20:36.398967300Z
+2914.20e0:     LastWriteTime:   2020-12-10T17:20:36.441434700Z
+2914.20e0:     ChangeTime:      2021-01-13T14:22:54.996152800Z
+2914.20e0:     FileAttributes:  0x20
+2914.20e0:     Size:            0x1ee738
+2914.20e0:     NT Headers:      0xe8
+2914.20e0:     Timestamp:       0x27bfa5f0
+2914.20e0:     Machine:         0x8664 - amd64
+2914.20e0:     Timestamp:       0x27bfa5f0
+2914.20e0:     Image Version:   10.0
+2914.20e0:     SizeOfImage:     0x1f6000 (2056192)
+2914.20e0:     Resource Dir:    0x185000 LB 0x6fdc8
+2914.20e0:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2914.20e0:     [Raw version resource data: 0x1850f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+2914.20e0:     ProductName:     Microsoft® Windows® Operating System
+2914.20e0:     ProductVersion:  10.0.19041.662
+2914.20e0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+2914.20e0:     FileDescription: NT Layer DLL
+2914.20e0: \SystemRoot\System32\kernel32.dll:
+2914.20e0:     CreationTime:    2020-12-10T17:20:19.578183200Z
+2914.20e0:     LastWriteTime:   2020-12-10T17:20:19.599168900Z
+2914.20e0:     ChangeTime:      2021-01-13T14:22:53.066010100Z
+2914.20e0:     FileAttributes:  0x20
+2914.20e0:     Size:            0xbac30
+2914.20e0:     NT Headers:      0xe8
+2914.20e0:     Timestamp:       0x4b3a140f
+2914.20e0:     Machine:         0x8664 - amd64
+2914.20e0:     Timestamp:       0x4b3a140f
+2914.20e0:     Image Version:   10.0
+2914.20e0:     SizeOfImage:     0xbd000 (774144)
+2914.20e0:     Resource Dir:    0xbb000 LB 0x520
+2914.20e0:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2914.20e0:     [Raw version resource data: 0xbb0b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+2914.20e0:     ProductName:     Microsoft® Windows® Operating System
+2914.20e0:     ProductVersion:  10.0.19041.662
+2914.20e0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+2914.20e0:     FileDescription: Windows NT BASE API Client DLL
+2914.20e0: \SystemRoot\System32\KernelBase.dll:
+2914.20e0:     CreationTime:    2020-12-10T17:20:37.406783200Z
+2914.20e0:     LastWriteTime:   2020-12-10T17:20:37.479511800Z
+2914.20e0:     ChangeTime:      2021-01-13T14:22:55.007150600Z
+2914.20e0:     FileAttributes:  0x20
+2914.20e0:     Size:            0x2c9798
+2914.20e0:     NT Headers:      0xf0
+2914.20e0:     Timestamp:       0xec58f015
+2914.20e0:     Machine:         0x8664 - amd64
+2914.20e0:     Timestamp:       0xec58f015
+2914.20e0:     Image Version:   10.0
+2914.20e0:     SizeOfImage:     0x2c9000 (2920448)
+2914.20e0:     Resource Dir:    0x2a0000 LB 0x548
+2914.20e0:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2914.20e0:     [Raw version resource data: 0x2a00b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+2914.20e0:     ProductName:     Microsoft® Windows® Operating System
+2914.20e0:     ProductVersion:  10.0.19041.662
+2914.20e0:     FileVersion:     10.0.19041.662 (WinBuild.160101.0800)
+2914.20e0:     FileDescription: Windows NT BASE API Client DLL
+2914.20e0: \SystemRoot\System32\apisetschema.dll:
+2914.20e0:     CreationTime:    2019-12-07T09:08:13.518339400Z
+2914.20e0:     LastWriteTime:   2019-12-07T09:08:13.518339400Z
+2914.20e0:     ChangeTime:      2021-01-13T14:22:52.926225200Z
+2914.20e0:     FileAttributes:  0x20
+2914.20e0:     Size:            0x1f538
+2914.20e0:     NT Headers:      0xd0
+2914.20e0:     Timestamp:       0x31288ce0
+2914.20e0:     Machine:         0x8664 - amd64
+2914.20e0:     Timestamp:       0x31288ce0
+2914.20e0:     Image Version:   10.0
+2914.20e0:     SizeOfImage:     0x20000 (131072)
+2914.20e0:     Resource Dir:    0x1f000 LB 0x408
+2914.20e0:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2914.20e0:     [Raw version resource data: 0x1f060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+2914.20e0:     ProductName:     Microsoft® Windows® Operating System
+2914.20e0:     ProductVersion:  10.0.19041.1
+2914.20e0:     FileVersion:     10.0.19041.1 (WinBuild.160101.0800)
+2914.20e0:     FileDescription: ApiSet Schema DLL
+2914.20e0: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+2914.20e0: supR3HardenedWinFindAdversaries: 0x0
+2914.20e0: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2914.20e0: Calling main()
+2914.20e0: SUPR3HardenedMain: pszProgName=VirtualBoxVM fFlags=0x2
+2914.20e0: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe: Signature #1/2: info status: 24202
+2914.20e0: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe)
+2914.20e0: SUPR3HardenedMain: Respawn #2
+2914.20e0: supR3HardNtEnableThreadCreationEx:
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d560000 LB 0x0012b000 C:\WINDOWS\System32\RPCRT4.dll [fFlags=0x0]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5bd30000 LB 0x0009c000 C:\WINDOWS\System32\sechost.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #11 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\sechost.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\sechost.dll
+2914.20e0: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ntdll.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\ntdll.dll (Input=ntdll.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5da70000 'C:\WINDOWS\System32\ntdll.dll'
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\apphelp.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\apphelp.dll
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\apphelp.dll (rcNtResolve=0xc0150008) *pfFlags=0xffffffff pwszSearchPath=0000000000000000:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\apphelp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc57c80000 LB 0x00090000 C:\WINDOWS\system32\apphelp.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\apphelp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ntdll.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\ntdll.dll (Input=ntdll.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5da70000 'C:\WINDOWS\System32\ntdll.dll'
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc57c80000 'C:\WINDOWS\system32\apphelp.dll'
+2914.20e0: Error -104 in supR3HardenedWinReSpawn! (enmWhat=5)
+2914.20e0: Error relaunching VirtualBox VM process: 5
+Command line: '60eaff78-4bdd-042d-2e72-669728efd737-suplib-3rdchild --comment wsb_frontend_ubuntu_v2 --startvm 0bda6fe8-2ac1-43ab-9ffc-cac266b809e1 --no-startvm-errormsgbox --sup-hardening-log=C:\Users\Ada\Documents\FRONTEND-ANGULAR\ZJAZD5\wsb_frontend_ubuntu_v2\Logs\VBoxHardening.log'
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'opengl32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'uicommon.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'vboxrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'msvcp100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'msvcr100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'qt5guivbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'qt5widgetsvbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'qt5openglvbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #10 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #11 'ole32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #12 'oleaut32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #13 'winmm.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'winmm.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'winmm.dll' -> '\Device\HarddiskVolume2\Windows\System32\winmm.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msvcrt.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\winmm.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\winmm.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcp_win.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'combase.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #21 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\oleaut32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\oleaut32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ole32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ole32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ole32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #21 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #49 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #50 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #51 'combase.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ole32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ole32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'win32u.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #37 'gdi32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\user32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\user32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5openglvbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5openglvbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5openglvbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'qt5widgetsvbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'qt5guivbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5widgetsvbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5widgetsvbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5widgetsvbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'qt5guivbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'shell32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'msvcp100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5guivbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5guivbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5guivbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'ole32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'opengl32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'msvcp100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'shell32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'ole32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'advapi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'ws2_32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'mpr.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'msvcp100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll: Signature #1/2: info status: 24202
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'vboxrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'vboxrt.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\vboxrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcr100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msvcp100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'ws2_32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'uicommon.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'uicommon.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\uicommon.dll' [rcNtRedir=0xc0150008]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\UICommon.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'vboxrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msvcr100.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'qt5guivbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'qt5widgetsvbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'advapi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'ole32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #9 'oleaut32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #10 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\UICommon.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\UICommon.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'opengl32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'opengl32.dll' -> '\Device\HarddiskVolume2\Windows\System32\opengl32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'advapi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'glu32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\opengl32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\opengl32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'glu32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'glu32.dll' -> '\Device\HarddiskVolume2\Windows\System32\glu32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'opengl32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\glu32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\glu32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #9 'win32u.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\gdi32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\gdi32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'advapi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'advapi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\advapi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'sechost.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #27 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\advapi32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\advapi32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msvcrt.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msvcrt.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ole32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ole32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ole32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ole32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'advapi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'advapi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\advapi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5widgetsvbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5widgetsvbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5widgetsvbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5guivbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5guivbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5guivbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'vboxrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'vboxrt.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\vboxrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ws2_32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ws2_32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ws2_32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #26 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ws2_32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ws2_32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'mpr.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'mpr.dll' -> '\Device\HarddiskVolume2\Windows\System32\mpr.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\mpr.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\mpr.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ws2_32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ws2_32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ws2_32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ws2_32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'advapi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'advapi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\advapi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ole32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ole32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ole32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ole32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'shell32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'shell32.dll' -> '\Device\HarddiskVolume2\Windows\System32\shell32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcp_win.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #72 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #74 'gdi32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\shell32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\shell32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'opengl32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'opengl32.dll' -> '\Device\HarddiskVolume2\Windows\System32\opengl32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\opengl32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ole32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ole32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ole32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ole32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'shell32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'shell32.dll' -> '\Device\HarddiskVolume2\Windows\System32\shell32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\shell32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5guivbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5guivbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5guivbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5guivbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5guivbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5guivbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5widgetsvbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5widgetsvbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5widgetsvbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: '\Device\HarddiskVolume2\Windows\System32\win32u.dll' has no imports
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\win32u.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\win32u.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\combase.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\combase.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'sechost.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'sechost.dll' -> '\Device\HarddiskVolume2\Windows\System32\sechost.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\sechost.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'opengl32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'opengl32.dll' -> '\Device\HarddiskVolume2\Windows\System32\opengl32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\opengl32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000a01:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\opengl32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\UICommon.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmm.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\glu32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\mpr.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5bdd0000 LB 0x0009e000 C:\WINDOWS\System32\msvcrt.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5bad0000 LB 0x000ac000 C:\WINDOWS\System32\ADVAPI32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b940000 LB 0x00022000 C:\WINDOWS\System32\win32u.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b760000 LB 0x00100000 C:\WINDOWS\System32\ucrtbase.dll [fFlags=0x0]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ucrtbase.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ucrtbase.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b670000 LB 0x0009d000 C:\WINDOWS\System32\msvcp_win.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b560000 LB 0x0010b000 C:\WINDOWS\System32\gdi32full.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcp_win.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #33 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #35 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #36 'win32u.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\gdi32full.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\gdi32full.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d8d0000 LB 0x0002a000 C:\WINDOWS\System32\GDI32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5bb90000 LB 0x001a0000 C:\WINDOWS\System32\USER32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d200000 LB 0x00356000 C:\WINDOWS\System32\combase.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc33980000 LB 0x0002c000 C:\WINDOWS\SYSTEM32\GLU32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\glu32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc32940000 LB 0x00125000 C:\WINDOWS\SYSTEM32\OPENGL32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\opengl32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   0000000062970000 LB 0x000d2000 C:\Program Files\Oracle\VirtualBox\MSVCR100.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   0000000061df0000 LB 0x00098000 C:\Program Files\Oracle\VirtualBox\MSVCP100.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcp100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5c000000 LB 0x0006b000 C:\WINDOWS\System32\WS2_32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ws2_32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc02be0000 LB 0x005e1000 C:\Program Files\Oracle\VirtualBox\VBoxRT.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5cab0000 LB 0x00743000 C:\WINDOWS\System32\SHELL32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\shell32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d690000 LB 0x0012a000 C:\WINDOWS\System32\ole32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ole32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc3e380000 LB 0x0001d000 C:\WINDOWS\SYSTEM32\MPR.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\mpr.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   0000000062400000 LB 0x00565000 C:\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc002c0000 LB 0x005f7000 C:\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   0000000061e90000 LB 0x00561000 C:\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5WidgetsVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d960000 LB 0x000cd000 C:\WINDOWS\System32\OLEAUT32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc008c0000 LB 0x02317000 C:\Program Files\Oracle\VirtualBox\UICommon.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\UICommon.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   0000000061d60000 LB 0x00054000 C:\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5OpenGLVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc4a870000 LB 0x00027000 C:\WINDOWS\SYSTEM32\WINMM.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmm.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc244c0000 LB 0x001c8000 C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-synch-l1-2-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-synch-l1-2-0'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-fibers-l1-1-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-fibers-l1-1-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-fibers-l1-1-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-fibers-l1-1-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-synch-l1-2-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-synch-l1-2-0'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-localization-l1-2-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-localization-l1-2-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-localization-l1-2-1'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\kernel32.dll (Input=kernel32, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5c2e0000 'C:\WINDOWS\System32\kernel32.dll'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-string-l1-1-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-string-l1-1-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-string-l1-1-0'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-datetime-l1-1-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-datetime-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-datetime-l1-1-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-localization-obsolete-l1-2-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-localization-obsolete-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-localization-obsolete-l1-2-0'
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #25 'win32u.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\imm32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\imm32.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\IMM32.DLL (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000009:<flags> [calling]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d870000 LB 0x00030000 C:\WINDOWS\System32\IMM32.DLL [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\imm32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5d870000 'C:\WINDOWS\system32\IMM32.DLL'
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: error opening 'C:\WINDOWS\System32\edgegdi.dll': 0 (NtPath=\??\C:\WINDOWS\System32\edgegdi.dll; Input=edgegdi.dll; rcNtGetDll=0xc0000135
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0xc0000034 'C:\WINDOWS\System32\edgegdi.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\VBoxRT.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VBoxRT.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc02be0000 'C:\Program Files\Oracle\VirtualBox\VBoxRT.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\ADVAPI32.DLL (Input=ADVAPI32.DLL, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5bad0000 'C:\WINDOWS\System32\ADVAPI32.DLL'
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\cryptbase.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\cryptbase.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5a4e0000 LB 0x0000c000 C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\cryptbase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b860000 LB 0x00080000 C:\WINDOWS\System32\bcryptPrimitives.dll [fFlags=0x0]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\bcryptprimitives.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\bcryptprimitives.dll
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc244c0000 'C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.dll'
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #31 'combase.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #32 'msvcp_win.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #34 'wldp.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\windows.storage.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\windows.storage.dll
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\wldp.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\wldp.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5a520000 LB 0x0002c000 C:\WINDOWS\SYSTEM32\Wldp.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\wldp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc58620000 LB 0x0078f000 C:\WINDOWS\SYSTEM32\windows.storage.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\windows.storage.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5bf50000 LB 0x000ae000 C:\WINDOWS\System32\SHCORE.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #42 'combase.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\SHCore.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\SHCore.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5c5e0000 LB 0x00055000 C:\WINDOWS\System32\shlwapi.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msvcrt.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\shlwapi.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\shlwapi.dll
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'wldp.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'wldp.dll' -> '\Device\HarddiskVolume2\Windows\System32\wldp.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\wldp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\kernel32.dll (Input=kernel32.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5c2e0000 'C:\WINDOWS\System32\kernel32.dll'
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\profapi.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\profapi.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5b0e0000 LB 0x00026000 C:\WINDOWS\SYSTEM32\profapi.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\profapi.dll [lacks WinVerifyTrust]
+2914.20e0: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\platforms\qwindows.dll: Signature #1/2: info status: 24202
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'ole32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'imm32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #4 'winmm.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'oleaut32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #6 'shell32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'advapi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'qt5guivbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #9 'qt5corevbox.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #10 'msvcr100.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 24202 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\platforms\qwindows.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\platforms\qwindows.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcr100.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcr100.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\msvcr100.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5corevbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5corevbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5corevbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5CoreVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'qt5guivbox.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'qt5guivbox.dll' -> '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\qt5guivbox.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\Qt5GuiVBox.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'advapi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'advapi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\advapi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'shell32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'shell32.dll' -> '\Device\HarddiskVolume2\Windows\System32\shell32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\shell32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'winmm.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'winmm.dll' -> '\Device\HarddiskVolume2\Windows\System32\winmm.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmm.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'imm32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'imm32.dll' -> '\Device\HarddiskVolume2\Windows\System32\imm32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\imm32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ole32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ole32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ole32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ole32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\Program Files\Oracle\VirtualBox\platforms\qwindows.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\platforms\qwindows.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc1aed0000 LB 0x0012e000 C:\Program Files\Oracle\VirtualBox\platforms\qwindows.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 24202 (0x5e8a)) on \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\platforms\qwindows.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc1aed0000 'C:\Program Files\Oracle\VirtualBox\platforms\qwindows.dll'
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #8 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\kernel.appcore.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\kernel.appcore.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc58dc0000 LB 0x00012000 C:\WINDOWS\SYSTEM32\kernel.appcore.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\kernel.appcore.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #33 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #34 'user32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\uxtheme.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\uxtheme.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\uxtheme.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000009:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\uxtheme.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc57db0000 LB 0x0009e000 C:\WINDOWS\system32\uxtheme.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\uxtheme.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc57db0000 'C:\WINDOWS\system32\uxtheme.dll'
+2914.20e0: \Device\HarddiskVolume2\Program Files (x86)\Trusteer\Rapport\bin\x64\rooksbas_x64.dll: Signature #1/3: VERR_CR_X509_CPV_NO_TRUSTED_PATHS (-23021) w/ timestamp=0x5f3bd8a2/link.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'advapi32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files (x86)\Trusteer\Rapport\bin\x64\rooksbas_x64.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Program Files (x86)\Trusteer\Rapport\bin\x64\rooksbas_x64.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'advapi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'advapi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\advapi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\advapi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=c:\program files (x86)\trusteer\rapport\bin\x64\rooksbas_x64.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000009:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files (x86)\Trusteer\Rapport\bin\x64\rooksbas_x64.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc30ae0000 LB 0x001d0000 c:\program files (x86)\trusteer\rapport\bin\x64\rooksbas_x64.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Program Files (x86)\Trusteer\Rapport\bin\x64\rooksbas_x64.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-synch-l1-2-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-synch-l1-2-0'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-fibers-l1-1-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-fibers-l1-1-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-synch-l1-2-0) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-synch-l1-2-0 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-synch-l1-2-0'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-fibers-l1-1-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-fibers-l1-1-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-fibers-l1-1-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-localization-l1-2-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-localization-l1-2-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-localization-l1-2-1'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-sysinfo-l1-2-1) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-sysinfo-l1-2-1 (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5b290000 'api-ms-win-core-sysinfo-l1-2-1'
+2914.20e0: '\Device\HarddiskVolume2\Windows\System32\tzres.dll' has no imports
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\tzres.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\tzres.dll
+2914.20e0: supR3HardenedMonitor_NtCreateSection: NtMapViewOfSection failed on 0000000000000388 (hFile=000000000000037c) with 0xc0000022 -> STATUS_TRUST_FAILURE
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\tzres.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_NtCreateSection: NtMapViewOfSection failed on 000000000000037c (hFile=0000000000000388) with 0xc0000022 -> STATUS_TRUST_FAILURE
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc30ae0000 'c:\program files (x86)\trusteer\rapport\bin\x64\rooksbas_x64.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.2444: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5bb90000 'C:\WINDOWS\system32\user32.dll'
+2914.2444: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5d560000 'C:\WINDOWS\System32\rpcrt4.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\shell32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\shell32.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5cab0000 'C:\WINDOWS\system32\shell32.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\SHCore.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\SHCore.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5bf50000 'C:\WINDOWS\system32\SHCore.dll'
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: error opening 'C:\WINDOWS\system32\wintab32.dll': 0 (NtPath=\??\C:\WINDOWS\system32\wintab32.dll; Input=C:\WINDOWS\system32\wintab32.dll; rcNtGetDll=0x0
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0xc0000034 'C:\WINDOWS\system32\wintab32.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmm.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\winmm.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc4a870000 'C:\WINDOWS\system32\winmm.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmm.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\winmm.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc4a870000 'C:\WINDOWS\system32\winmm.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\shell32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\shell32.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5cab0000 'C:\WINDOWS\system32\shell32.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\uxtheme.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\uxtheme.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc57db0000 'C:\WINDOWS\system32\uxtheme.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5d8d0000 'C:\WINDOWS\system32\gdi32.dll'
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5c080000 LB 0x00116000 C:\WINDOWS\System32\MSCTF.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #11 'oleaut32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #36 'user32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #37 'gdi32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #38 'imm32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msctf.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msctf.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5d7c0000 LB 0x000a9000 C:\WINDOWS\System32\clbcatq.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #30 'rpcrt4.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\clbcatq.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\clbcatq.dll
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #26 'd3d11.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #27 'dcomp.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\DataExchange.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\DataExchange.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'dcomp.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'dcomp.dll' -> '\Device\HarddiskVolume2\Windows\System32\dcomp.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'win32u.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'msvcp_win.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\dcomp.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\dcomp.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'd3d11.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'd3d11.dll' -> '\Device\HarddiskVolume2\Windows\System32\d3d11.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #26 'dxgi.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #28 'win32u.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\d3d11.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\d3d11.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'imm32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'imm32.dll' -> '\Device\HarddiskVolume2\Windows\System32\imm32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\imm32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'gdi32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'gdi32.dll' -> '\Device\HarddiskVolume2\Windows\System32\gdi32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'user32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'user32.dll' -> '\Device\HarddiskVolume2\Windows\System32\user32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\user32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'dxgi.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'dxgi.dll' -> '\Device\HarddiskVolume2\Windows\System32\dxgi.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'win32u.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\dxgi.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\dxgi.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'win32u.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'win32u.dll' -> '\Device\HarddiskVolume2\Windows\System32\win32u.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\win32u.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\system32\dataexchange.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000002009:<flags> [calling]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\DataExchange.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\d3d11.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\dcomp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\dxgi.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc594b0000 LB 0x000f3000 C:\WINDOWS\system32\dxgi.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\dxgi.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc56950000 LB 0x00264000 C:\WINDOWS\system32\d3d11.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\d3d11.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc57180000 LB 0x001e7000 C:\WINDOWS\system32\dcomp.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\dcomp.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc30290000 LB 0x0003e000 C:\WINDOWS\system32\dataexchange.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\DataExchange.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\gdi32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5d8d0000 'C:\WINDOWS\System32\gdi32.dll'
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc30290000 'C:\WINDOWS\system32\dataexchange.dll'
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #30 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #43 'combase.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #45 'msvcp_win.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\twinapi.appcore.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\twinapi.appcore.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc53590000 LB 0x00201000 C:\WINDOWS\system32\twinapi.appcore.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\twinapi.appcore.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\winmmbase.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\winmmbase.dll
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc2bf10000 LB 0x00026000 C:\WINDOWS\SYSTEM32\winmmbase.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmmbase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #15 'oleaut32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #17 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #20 'coreuicomponents.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #21 'coremessaging.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\TextInputFramework.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\TextInputFramework.dll
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #35 'coremessaging.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #40 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #48 'shcore.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\CoreUIComponents.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\CoreUIComponents.dll
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #20 'ws2_32.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\CoreMessaging.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\CoreMessaging.dll
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ntmarta.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ntmarta.dll
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #3 'combase.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #24 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #32 'bcryptprimitives.dll'.
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\WinTypes.dll)
+2914.20e0: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\WinTypes.dll
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc5aef0000 LB 0x00033000 C:\WINDOWS\SYSTEM32\ntmarta.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ntmarta.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc57a50000 LB 0x000f2000 C:\WINDOWS\System32\CoreMessaging.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\CoreMessaging.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc56390000 LB 0x00154000 C:\WINDOWS\SYSTEM32\wintypes.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\WinTypes.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc576f0000 LB 0x0035e000 C:\WINDOWS\System32\CoreUIComponents.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\CoreUIComponents.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedDllNotificationCallback: load   00007ffc4dee0000 LB 0x000fb000 C:\WINDOWS\SYSTEM32\textinputframework.dll [fFlags=0x0]
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\TextInputFramework.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(ext-ms-win-rtcore-ntuser-window-ext-l1-1-0.dll) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=ext-ms-win-rtcore-ntuser-window-ext-l1-1-0.dll (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5bb90000 'ext-ms-win-rtcore-ntuser-window-ext-l1-1-0.dll'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(ext-ms-win-rtcore-ntuser-integration-l1-1-0.dll) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=ext-ms-win-rtcore-ntuser-integration-l1-1-0.dll (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5bb90000 'ext-ms-win-rtcore-ntuser-integration-l1-1-0.dll'
+2914.20e0: supR3HardenedIsApiSetDll: ApiSetQueryApiSetPresence(api-ms-win-core-com-l1-1-0.dll) -> 0x0, fPresent=1
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=api-ms-win-core-com-l1-1-0.dll (rcNtResolve=0x0) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5d200000 'api-ms-win-core-com-l1-1-0.dll'
+2914.20e0: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msctf.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'bcryptprimitives.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'bcryptprimitives.dll' -> '\Device\HarddiskVolume2\Windows\System32\bcryptprimitives.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\bcryptprimitives.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ws2_32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'ws2_32.dll' -> '\Device\HarddiskVolume2\Windows\System32\ws2_32.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcp_win.dll'.
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ws2_32.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #16 'rpcrt4.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #28 'devobj.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'shcore.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'shcore.dll' -> '\Device\HarddiskVolume2\Windows\System32\shcore.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\SHCore.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'coremessaging.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'coremessaging.dll' -> '\Device\HarddiskVolume2\Windows\System32\coremessaging.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\CoreMessaging.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'coremessaging.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'coremessaging.dll' -> '\Device\HarddiskVolume2\Windows\System32\coremessaging.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\CoreMessaging.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'coreuicomponents.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'coreuicomponents.dll' -> '\Device\HarddiskVolume2\Windows\System32\coreuicomponents.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\CoreUIComponents.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #18 'cfgmgr32.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\devobj.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\devobj.dll
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc5b710000 LB 0x0004e000 C:\WINDOWS\System32\cfgmgr32.dll [fFlags=0x0]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'combase.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'combase.dll' -> '\Device\HarddiskVolume2\Windows\System32\combase.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\combase.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'cfgmgr32.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'cfgmgr32.dll' -> '\Device\HarddiskVolume2\Windows\System32\cfgmgr32.dll' [rcNtRedir=0xc0150008]
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\cfgmgr32.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\cfgmgr32.dll
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc5af50000 LB 0x0002c000 C:\WINDOWS\SYSTEM32\DEVOBJ.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\devobj.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc4f4b0000 LB 0x00085000 C:\WINDOWS\SYSTEM32\MMDevAPI.DLL [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'mmdevapi.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #2 'ksuser.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #30 'avrt.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\wdmaud.drv)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\wdmaud.drv
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'avrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'avrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\avrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\cfgmgr32.dll)
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'devobj.dll'...
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\avrt.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\avrt.dll
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'ksuser.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'devobj.dll' -> '\Device\HarddiskVolume2\Windows\System32\devobj.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\devobj.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'ksuser.dll' -> '\Device\HarddiskVolume2\Windows\System32\ksuser.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\ksuser.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\ksuser.dll
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'mmdevapi.dll'...
+2914.20e0: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.20e0: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'mmdevapi.dll' -> '\Device\HarddiskVolume2\Windows\System32\mmdevapi.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\MSCTF.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000009:<flags> [calling]
+2914.20e0: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc5c080000 'C:\WINDOWS\System32\MSCTF.dll'
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ksuser.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\avrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc437f0000 LB 0x00009000 C:\WINDOWS\SYSTEM32\ksuser.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\ksuser.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc54080000 LB 0x0000a000 C:\WINDOWS\SYSTEM32\AVRT.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\avrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc275d0000 LB 0x00046000 C:\WINDOWS\System32\wdmaud.drv [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\MMDEVAPI.DLL (Input=MMDEVAPI.DLL, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc4f4b0000 'C:\WINDOWS\System32\MMDEVAPI.DLL'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcp_win.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #5 'rpcrt4.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #7 'oleaut32.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #29 'mmdevapi.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\AudioSes.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\AudioSes.dll
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'mmdevapi.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'mmdevapi.dll' -> '\Device\HarddiskVolume2\Windows\System32\mmdevapi.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'oleaut32.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'oleaut32.dll' -> '\Device\HarddiskVolume2\Windows\System32\oleaut32.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\oleaut32.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcp_win.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcp_win.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcp_win.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcp_win.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\AUDIOSES.DLL (Input=AUDIOSES.DLL, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000001:<flags> [calling]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\AudioSes.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #12 'rpcrt4.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\powrprof.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\powrprof.dll
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc5adc0000 LB 0x0004b000 C:\WINDOWS\SYSTEM32\powrprof.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\powrprof.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc4f540000 LB 0x00183000 C:\WINDOWS\System32\AUDIOSES.DLL [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\AudioSes.dll [lacks WinVerifyTrust]
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\umpdc.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\umpdc.dll
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc5a860000 LB 0x00012000 C:\WINDOWS\SYSTEM32\UMPDC.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\umpdc.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc4f540000 'C:\WINDOWS\System32\AUDIOSES.DLL'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume2\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\wdmaud.drv (Input=wdmaud.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\wdmaud.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc275d0000 'C:\WINDOWS\System32\wdmaud.drv'
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #12 'mmdevapi.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #13 'msacm32.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\msacm32.drv)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msacm32.drv
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msacm32.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msacm32.dll' -> '\Device\HarddiskVolume2\Windows\System32\msacm32.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Windows\System32\msacm32.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\msacm32.dll
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'mmdevapi.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'mmdevapi.dll' -> '\Device\HarddiskVolume2\Windows\System32\mmdevapi.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msacm32.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc544d0000 LB 0x0001e000 C:\WINDOWS\SYSTEM32\MSACM32.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msacm32.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc544f0000 LB 0x0000d000 C:\WINDOWS\System32\msacm32.drv [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\msacm32.drv (Input=msacm32.drv, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\msacm32.drv [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544f0000 'C:\WINDOWS\System32\msacm32.drv'
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #0 'msvcrt.dll'.
+2914.128c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #1 'winmmbase.dll'.
+2914.128c: supHardenedWinVerifyImageByHandle: -> 22900 (\Device\HarddiskVolume2\Windows\System32\midimap.dll)
+2914.128c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume2\Windows\System32\midimap.dll
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'winmmbase.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'winmmbase.dll' -> '\Device\HarddiskVolume2\Windows\System32\winmmbase.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\winmmbase.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'msvcrt.dll'...
+2914.128c: supR3HardenedWinVerifyCacheProcessImportTodos: 'msvcrt.dll' -> '\Device\HarddiskVolume2\Windows\System32\msvcrt.dll' [rcNtRedir=0xc0150008]
+2914.128c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\msvcrt.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\midimap.dll (Input=midimap.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedScreenImage/NtCreateSection: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\midimap.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedDllNotificationCallback: load   00007ffc544c0000 LB 0x0000b000 C:\WINDOWS\System32\midimap.dll [fFlags=0x0]
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\midimap.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544c0000 'C:\WINDOWS\System32\midimap.dll'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\midimap.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\midimap.dll (Input=midimap.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544c0000 'C:\WINDOWS\System32\midimap.dll'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\midimap.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\midimap.dll (Input=midimap.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544c0000 'C:\WINDOWS\System32\midimap.dll'
+2914.128c: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status 22900 (0x5974)) on \Device\HarddiskVolume2\Windows\System32\midimap.dll [lacks WinVerifyTrust]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\midimap.dll (Input=midimap.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000001001:<flags> [calling]
+2914.128c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc544c0000 'C:\WINDOWS\System32\midimap.dll'
+2914.13d4: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume2\Windows\System32\MMDevAPI.dll [lacks WinVerifyTrust]
+2914.13d4: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\MMDevApi.dll (rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000002009:<flags> [calling]
+2914.13d4: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffc4f4b0000 'C:\WINDOWS\System32\MMDevApi.dll'
+29dc.2ed0: supR3HardNtChildWaitFor[1]: Quitting: ExitCode=0x1 (rcNtWait=0x0, rcNt1=0x0, rcNt2=0x103, rcNt3=0x103, 22203 ms, the end);
