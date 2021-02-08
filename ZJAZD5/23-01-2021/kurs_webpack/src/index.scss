@@ -2,7 +2,12 @@
 );
 $font-family:"Roboto Condensed";
 $font-size: 40px;
+$padding: 100px;
 
+@mixin bgc(){
+    background-color: rgb(194, 21, 185); 
+    height: 60px;
+}
 body{background-color: pink;
     font-family: $font-family;
     font-size: $font-size;
@@ -10,9 +15,9 @@ body{background-color: pink;
 
 
 .wrapper { max-width: 250px; background-color: lightblue;
-    h1 {color: white; }
+    h1 {color: white; padding: $padding; @include bgc;}
     h2 {color: blue;}
-    a {text-decoration: none;
+    a {text-decoration: none; @include bgc;;
     &:hover{color:brown;}
     }
 }
@@ -20,6 +25,7 @@ body{background-color: pink;
     &__block{color: yellow}
     }
 
-.box { padding: 20px; 
-    background-color: lightblue;}
+.box {background-color: lightblue; padding: $padding;}
 .box-header { font-size: 30px; background-color: rgb(228, 124, 39);}
+
+button {border: 1px solid red; color: white; padding: $padding; @include bgc;}
