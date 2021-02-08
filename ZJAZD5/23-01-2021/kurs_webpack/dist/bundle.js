@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \".wrapper {\\n  max-width: 250px;\\n  background-color: lightblue; }\\n  .wrapper h1 {\\n    color: white; }\\n  .wrapper h2 {\\n    color: blue; }\\n  .wrapper a {\\n    text-decoration: none; }\\n    .wrapper a:hover {\\n      color: brown; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/index.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);\", \"\"]);\n\n// Module\nexports.push([module.i, \"body {\\n  background-color: pink;\\n  font-family: \\\"Roboto Condensed\\\";\\n  font-size: 40px; }\\n\\n.wrapper {\\n  max-width: 250px;\\n  background-color: lightblue; }\\n  .wrapper h1 {\\n    color: white; }\\n  .wrapper h2 {\\n    color: blue; }\\n  .wrapper a {\\n    text-decoration: none; }\\n    .wrapper a:hover {\\n      color: brown; }\\n\\n.sampleClass__block {\\n  color: yellow; }\\n\\n.box {\\n  padding: 20px;\\n  background-color: lightblue; }\\n\\n.box-header {\\n  font-size: 30px;\\n  background-color: #e47c27; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/index.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 

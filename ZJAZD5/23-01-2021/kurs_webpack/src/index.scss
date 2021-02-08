@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed'
+);
+$font-family:"Roboto Condensed";
+$font-size: 40px;
+
+body{background-color: pink;
+    font-family: $font-family;
+    font-size: $font-size;
+}
+
+
 .wrapper { max-width: 250px; background-color: lightblue;
     h1 {color: white; }
     h2 {color: blue;}
@@ -5,3 +16,10 @@
     &:hover{color:brown;}
     }
 }
+.sampleClass{
+    &__block{color: yellow}
+    }
+
+.box { padding: 20px; 
+    background-color: lightblue;}
+.box-header { font-size: 30px; background-color: rgb(228, 124, 39);}
