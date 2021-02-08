@@ -1,9 +1,7 @@
-body{
-    h1{
-    color: red;
+.wrapper { max-width: 250px; background-color: lightblue;
+    h1 {color: white; }
+    h2 {color: blue;}
+    a {text-decoration: none;
+    &:hover{color:brown;}
     }
-    background: url("./../assets/img/proba.png");
-    .change{
-    background-color: yellow;
-    }
-    }
+}
