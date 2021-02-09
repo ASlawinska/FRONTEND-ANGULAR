@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+body {
+  background-color: pink;
+  font-family: "Roboto Condensed";
+  font-size: 40px;
+}
+
+.wrapper {
+  max-width: 250px;
+  background-color: lightblue;
+}
+
+.wrapper h1 {
+  color: white;
+  padding: 100px;
+  background-color: #c215b9;
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wrapper h2 {
+  color: blue;
+}
+
+.wrapper a {
+  text-decoration: none;
+  background-color: #c215b9;
+  height: 60px;
+}
+
+.wrapper a:hover {
+  color: brown;
+}
+
+.sampleClass__block {
+  color: yellow;
+}
+
+.sampleClass__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.box {
+  background-color: lightblue;
+  padding: 100px;
+}
+
+.box-header {
+  font-size: 30px;
+  background-color: #e47c27;
+}
+
+button {
+  border: 1px solid red;
+  color: white;
+  padding: 100px;
+  background-color: #c215b9;
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=index.css.map */

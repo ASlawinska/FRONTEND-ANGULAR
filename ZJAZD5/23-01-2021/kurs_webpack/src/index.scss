@@ -8,6 +8,11 @@ $padding: 100px;
     background-color: rgb(194, 21, 185); 
     height: 60px;
 }
+@mixin position($justifyContent, $alignItems){
+    display: flex;
+    justify-content: $justifyContent;
+    align-items: $alignItems;
+}
 body{background-color: pink;
     font-family: $font-family;
     font-size: $font-size;
@@ -15,8 +20,8 @@ body{background-color: pink;
 
 
 .wrapper { max-width: 250px; background-color: lightblue;
-    h1 {color: white; padding: $padding; @include bgc;}
-    h2 {color: blue;}
+    h1 {color: white; padding: $padding; @include bgc; @include position(center, flex-end);}
+    h2 {color: blue; position: relative; @include position(flex-start, flex-end);}
     a {text-decoration: none; @include bgc;;
     &:hover{color:brown;}
     }
@@ -24,8 +29,11 @@ body{background-color: pink;
 .sampleClass{
     &__block{color: yellow}
     }
+.sampleClass__block{
+    @include position(flex-end, flex-start);
+}
 
 .box {background-color: lightblue; padding: $padding;}
-.box-header { font-size: 30px; background-color: rgb(228, 124, 39);}
+.box-header { color: fuchsia; @include bgc; @include position(flex-end, flex-start)}
 
-button {border: 1px solid red; color: white; padding: $padding; @include bgc;}
+button {border: 1px solid red; color: white; padding: $padding; @include bgc; @include position(flex-start, flex-end);}
