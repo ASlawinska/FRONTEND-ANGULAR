@@ -1,0 +1,10 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+#kwadrat {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+
+}
